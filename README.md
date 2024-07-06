@@ -17,6 +17,7 @@ The Contact Manager Backend is a RESTful API designed to handle the backend oper
 
 ## Project Structure
 
+```
 contact-manager-backend/
 ├── controllers/ # Route handlers
 ├── middlewares/ # Custom middleware functions
@@ -28,7 +29,7 @@ contact-manager-backend/
 ├── package.json # npm package configuration
 ├── README.md # Project documentation
 └── server.js # Entry point for the application
-
+```
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -52,9 +53,9 @@ Follow these steps to set up the project locally:
 
 ## Install dependencies:
 
-```she
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 ## Set up environment variables:
 
@@ -68,9 +69,10 @@ JWT_SECRET=your_jwt_secret
 
 ## Running the Application
 
-```
- npm run dev
-```
+   ```bash
+  npm run dev
+   ```
+ 
 
 The API will be accessible at http://localhost:3000.
 
