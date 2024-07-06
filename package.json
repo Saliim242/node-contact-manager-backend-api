@@ -1,0 +1,27 @@
+{
+  "name": "contact-manager-backend",
+  "version": "1.0.0",
+  "description": "A backend API for managing contacts, built with Node.js, Express, and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saliim242/node-contact-manager-backend-api.git"
+  },
+  "author": "Salim Abukar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saliim242/node-contact-manager-backend-api/issues"
+  },
+  "homepage": "https://github.com/Saliim242/node-contact-manager-backend-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
