@@ -45,11 +45,11 @@ Before you begin, ensure you have the following installed:
 Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
-   ````sh
+   ```sh
    git clone https://github.com/yourusername/contact-manager-backend.git
    cd contact-manager-backend
-   ```                                    |
-   ````
+   ```
+   
 
 ## Install dependencies:
 
